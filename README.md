@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @somida
+👋 Hi, I’m @somida
+
+MY BLOG : https://somida.tistory.com/
